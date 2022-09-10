@@ -1,12 +1,17 @@
 <html>
 
 <head>
-  <script type="text/javascript" src="data.json"></script>
+  <link rel="icon" href="https://i.imgur.com/3no3kKB.png" />
+  <meta property="og:title" content="Was it Free?" />
+  <meta property="og:description" content="Free games list. Discover if your game went free at any time ago." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://was-it-free.hatakasy.repl.co/" />
+  <meta property="og:image" content="https://i.imgur.com/WduAZ5Y.png" />
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous" />
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="./style.css" />
 </head>
 
