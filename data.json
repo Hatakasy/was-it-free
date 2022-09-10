@@ -1,0 +1,4 @@
+data = `[
+    {"name" : "Ashwin", "date" : "01/02/2000"},
+    {"name" : "Abhinandan", "date" : "01/02/2000"}
+    ]`;

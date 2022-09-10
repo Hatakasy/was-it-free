@@ -1,0 +1,98 @@
+html {
+  background-color: rgb(46, 46, 46);
+}
+
+body {
+  margin: 5%;
+  background-color: rgb(46, 46, 46);
+  color: rgb(235, 235, 235);
+}
+
+#games-table_wrapper * {
+  color: rgb(235, 235, 235);
+}
+
+#games-table_length {
+  text-align: right;
+  float: right;
+  width: 40%;
+}
+
+#games-table_length select {
+  color: black;
+}
+
+#games-table_length select option {
+  color: black;
+}
+
+#games-table_filter {
+  float: left;
+  width: 40%;
+}
+
+#games-table_filter input {
+  padding: 5px 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: rgb(85, 85, 85);
+  color: rgb(235, 235, 235);
+  margin: 0px 5px;
+}
+
+#games-table * {
+  border-style: none;
+  color: rgb(223, 223, 223);
+  font-weight: bold;
+}
+
+#games-table thead {
+  border-bottom: 2px solid black;
+  font-size: 25px;
+  padding: 15px 5px;
+}
+
+#tableBody tr:hover * {
+  background-color: rgb(100, 100, 100);
+  transition-duration: 0.2s;
+}
+
+#games-table td {
+  padding: 15px 5px;
+}
+
+#games-table tr:nth-child(even) {
+  background-color: rgb(56, 56, 56);
+}
+
+#games-table_info {
+  text-align: right;
+  float: right;
+  width: 30%;
+}
+
+.games-table_paginate {
+  color: rgb(235, 235, 235);
+}
+
+.paginate_button {
+  padding: 10px;
+  margin: 5px;
+}
+
+.paginate_button:hover {
+  cursor: pointer;
+}
+
+#games-table_paginate a {
+  text-decoration: none;
+  color: white;
+}
+
+#games-table_paginate a:hover {
+  border-bottom: 2px solid;
+}
+#games-table_paginate span .current {
+  border-bottom: 2px solid;
+}
