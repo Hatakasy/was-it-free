@@ -14,6 +14,7 @@ mydata.forEach((e) => {
 
   let nome = document.createTextNode(e.name);
   let data = document.createTextNode(e.date);
+  let site = document.createTextNode(e.site);
 
   tabela.appendChild(trElement.cloneNode(true));
 
@@ -21,11 +22,15 @@ mydata.forEach((e) => {
 
   line.appendChild(tdElement.cloneNode(true)).appendChild(nome);
   line.appendChild(tdElementData.cloneNode(true)).appendChild(data);
+  line.appendChild(tdElementData.cloneNode(true)).appendChild(site);
 
   id++;
 });
 
 $(document).ready(function () {
-  $("#games-table").DataTable();
+  $("#games-table").DataTable({
+    aaSorting: [],
+    ordering: false,
+  });
   $(".dataTables_length").addClass("bs-select");
 });
