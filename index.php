@@ -17,8 +17,10 @@
 </head>
 
 <body>
-  <h1>WAS IT FREE?</h1>
-
+  <div id="tittle-bar">
+    <h1 id="page-tittle">WAS IT FREE?</h1>
+    <h1 id="menu-button" onClick="mostrarDescricao()">☰</h1>
+  </div>
   <table id="games-table" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%" style="border: none">
     <thead>
       <tr>
@@ -36,5 +38,26 @@
 </body>
 
 </html>
+
+<span id="background-descricao"></span>
+
+<div class="sidebar">
+  <div class="sidebar-info">
+    <div class="inside-bar">
+      <div onclick="fecharDescricao()" id="fechar-btn">
+        <h1>X</h1>
+      </div>
+      <h1>Notes</h1>
+      <br>
+      <p>This project was created at 09/sept/2022.</p>
+      <br>
+      <p>I'm trying my best to get old free games but it's hard to find a reliable source, so old giveaways from past years (before 2022) may not be listed correctly.</p>
+      <p>Also I'm trying to focus on relevant games and giveaway websites, so removed games giveaways or doubtful giveaway websites will be avoided.</p>
+      <p>I will try to update everytime I see new Free Giveaways</p>
+      <br><br><br><br>
+      <p>Created by Hatakasy</p>
+    </div>
+  </div>
+</div>
 
 <script type="text/javascript" src="script.js"></script>

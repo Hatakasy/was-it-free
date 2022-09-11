@@ -1,5 +1,85 @@
 {
   "Data": [
+    {
+      "name": "BATTLESTAR GALACTICA Deadlock (Steam)",
+      "date": "07/09/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Conrad Stevenson's Paranormal P.I. (Steam)",
+      "date": "07/09/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Dungoen of Elements (Steam)",
+      "date": "05/09/2022",
+      "site": "Gleam.io"
+    },
+    { "name": "Saira", "date": "01/09/2022", "site": "Steam" },
+    { "name": "Mafia", "date": "01/09/2022", "site": "Steam" },
+    { "name": "BattleTech (Steam)", "date": "29/08/2022", "site": "Alienware" },
+    { "name": "Tower 57 (Steam)", "date": "29/08/2022", "site": "Alienware" },
+    { "name": "Dead Bits (Steam)", "date": "23/08/2022", "site": "Gleam.io" },
+    {
+      "name": "Yars: Recharged (Steam)",
+      "date": "23/08/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Office Racer (Steam)",
+      "date": "22/08/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "Region of Ruin (Steam)",
+      "date": "22/08/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "Forest Mystery (Steam)",
+      "date": "22/08/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "Horror In Valkeala (Steam)",
+      "date": "22/08/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "1993 Space Machine (Steam)",
+      "date": "18/08/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Grav Blazer Squared (Steam)",
+      "date": "14/08/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "Kingdom Wars 4 (Steam)",
+      "date": "05/08/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "This War of Mine: Final Cut (Steam)",
+      "date": "04/08/2022",
+      "site": "Alienware"
+    },
+    { "name": "Moo Lander (Steam)", "date": "04/08/2022", "site": "Alienware" },
+    {
+      "name": "Crankies Workshop Bozzbot Assembly (Steam)",
+      "date": "04/08/2022",
+      "site": "Gleam.io"
+    },
+    { "name": "Despotism 3k", "date": "04/08/2022", "site": "Steam" },
+    {
+      "name": "Frostpunk (Soundtrack)",
+      "date": "02/08/2022",
+      "site": "Alienware"
+    },
+    { "name": "POLE", "date": "01/08/2022", "site": "Steam" },
+    { "name": "Beat Cop", "date": "01/08/2022", "site": "Alienware" },
+
     { "name": "Tower of Time", "date": "30/12/2019", "site": "GOG" },
     { "name": "Postal", "date": "20/12/2019", "site": "Steam" },
     { "name": "POSTAL 2", "date": "16/12/2019", "site": "GOG" },
@@ -137,13 +217,33 @@
     },
     { "name": "City of Brass", "date": "30/05/2019", "site": "Epic Games" },
     { "name": "Obduction", "date": "30/05/2019", "site": "GOG" },
-    { "name": "Minion Masters (DLC - Accursed Army Pack)", "date": "24/05/2019", "site": "Steam" },
-    { "name": "Minion Masters (DLC - Voidborne Onslaught) (Steam)", "date": "24/05/2019", "site": "Gleam.io" },
-    { "name": "Forced Showdown (Steam)", "date": "24/05/2019", "site": "Gleam.io" },
+    {
+      "name": "Minion Masters (DLC - Accursed Army Pack)",
+      "date": "24/05/2019",
+      "site": "Steam"
+    },
+    {
+      "name": "Minion Masters (DLC - Voidborne Onslaught) (Steam)",
+      "date": "24/05/2019",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "Forced Showdown (Steam)",
+      "date": "24/05/2019",
+      "site": "Gleam.io"
+    },
     { "name": "Forced (Steam)", "date": "24/05/2019", "site": "Gleam.io" },
     { "name": "RiME", "date": "23/05/2019", "site": "Epic Games" },
-    { "name": "EVE Online (DLC - Invasion Starter Pack)", "date": "23/05/2019", "site": "Steam" },
-    { "name": "Jalopy (No DRM)", "date": "23/05/2019", "site": "Humble Bundle" },
+    {
+      "name": "EVE Online (DLC - Invasion Starter Pack)",
+      "date": "23/05/2019",
+      "site": "Steam"
+    },
+    {
+      "name": "Jalopy (No DRM)",
+      "date": "23/05/2019",
+      "site": "Humble Bundle"
+    },
     { "name": "GRID 2", "date": "21/05/2019", "site": "Steam" },
     { "name": "The SIms 4", "date": "21/05/2019", "site": "Origin" },
     { "name": "Steep", "date": "20/05/2019", "site": "Uplay" },
@@ -152,15 +252,35 @@
     { "name": "Stories Untold", "date": "16/05/2019", "site": "Epic Games" },
     { "name": "Kathy Rain", "date": "06/05/2019", "site": "Steam" },
     { "name": "World of Goo", "date": "02/05/2019", "site": "Epic Games" },
-    { "name": "Gone Home (No DRM)", "date": "26/04/2019", "site": "Humble Bundle" },
+    {
+      "name": "Gone Home (No DRM)",
+      "date": "26/04/2019",
+      "site": "Humble Bundle"
+    },
     { "name": "Transistor", "date": "18/04/2019", "site": "Epic Games" },
     { "name": "Assassin's Creed Unity", "date": "17/04/2019", "site": "Uplay" },
-    { "name": "EVE Online (DLC - Starter Pack)", "date": "10/04/2019", "site": "Steam" },
+    {
+      "name": "EVE Online (DLC - Starter Pack)",
+      "date": "10/04/2019",
+      "site": "Steam"
+    },
     { "name": "The Witness", "date": "04/04/2019", "site": "Epic Games" },
-    { "name": "SCRAM (DLC - SCRAMmunism)", "date": "01/04/2019", "site": "Alienware" },
-    { "name": "The Elder Scrolls III: Morrowind", "date": "25/03/2019", "site": "Bethesda.net" },
+    {
+      "name": "SCRAM (DLC - SCRAMmunism)",
+      "date": "01/04/2019",
+      "site": "Alienware"
+    },
+    {
+      "name": "The Elder Scrolls III: Morrowind",
+      "date": "25/03/2019",
+      "site": "Bethesda.net"
+    },
     { "name": "Oxenfree", "date": "21/03/2019", "site": "Epic Games" },
-    { "name": "Tacoma (No DRM)", "date": "21/03/2019", "site": "Humble Bundle" },
+    {
+      "name": "Tacoma (No DRM)",
+      "date": "21/03/2019",
+      "site": "Humble Bundle"
+    },
     { "name": "Estranged: Act II", "date": "17/03/2019", "site": "Steam" },
     { "name": "GameGuru (Software)", "date": "15/03/2019", "site": "Steam" },
     {
@@ -174,7 +294,22 @@
       "site": "Steam"
     },
     { "name": "Slime Rancher", "date": "07/03/2019", "site": "Epic Games" },
-    { "name": "HITMAN 2 – Starter Pack", "date": "26/02/2019", "site": "Steam" },
+    { "name": "The Wall (Steam)", "date": "05/03/2019", "site": "Alienware" },
+    {
+      "name": "HIVE: Altenum Wars (Steam)",
+      "date": "04/03/2019",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "HITMAN 2 – Starter Pack",
+      "date": "26/02/2019",
+      "site": "Steam"
+    },
+    {
+      "name": "RRRR (Steam)",
+      "date": "26/02/2019",
+      "site": "Alienware"
+    },
     { "name": "Thimbleweed Park", "date": "21/02/2019", "site": "Epic Games" },
     { "name": "King of the Hat", "date": "18/02/2019", "site": "Discord" },
     { "name": "Axiom Verge", "date": "07/02/2019", "site": "Epic Games" },
@@ -184,17 +319,37 @@
       "date": "01/02/2019",
       "site": "Uplay"
     },
-    { "name": "Endless Space Collection", "date": "25/01/2019", "site": "Games2Gether" },
+    {
+      "name": "Endless Space Collection",
+      "date": "25/01/2019",
+      "site": "Games2Gether"
+    },
     {
       "name": "Deponia: The Complete Journey",
       "date": "24/01/2019",
       "site": "Humble Bundle"
     },
-    { "name": "Jackbox Party Pack", "date": "24/01/2019", "site": "Epic Games" },
-    { "name": "DISTRAINT: Deluxe Edition", "date": "23/01/2019", "site": "GOG" },
+    {
+      "name": "Jackbox Party Pack",
+      "date": "24/01/2019",
+      "site": "Epic Games"
+    },
+    {
+      "name": "DISTRAINT: Deluxe Edition",
+      "date": "23/01/2019",
+      "site": "GOG"
+    },
     { "name": "Braveland", "date": "16/01/2019", "site": "Steam" },
-    { "name": "A Story About My Uncle", "date": "10/01/2019", "site": "Humble Bundle" },
-    { "name": "What Remains of Edith Finch", "date": "10/01/2019", "site": "Epic Games" },
+    {
+      "name": "A Story About My Uncle",
+      "date": "10/01/2019",
+      "site": "Humble Bundle"
+    },
+    {
+      "name": "What Remains of Edith Finch",
+      "date": "10/01/2019",
+      "site": "Epic Games"
+    },
     { "name": "Blast Zone! Tournament", "date": "10/01/2019", "site": "Steam" },
     {
       "name": "A Story About My Uncle",
@@ -202,6 +357,7 @@
       "site": "Humble Bundle"
     },
     { "name": "Blast Zone! Tournament", "date": "10/01/2019", "site": "Steam" },
+    { "name": "Guts and Glory", "date": "09/01/2019", "site": "Alienware" },
     {
       "name": "LEGO® Lord of the Rings + LEGO - The Hobbit",
       "date": "28/12/2018",

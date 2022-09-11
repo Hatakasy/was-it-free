@@ -8,6 +8,28 @@ body {
   color: rgb(235, 235, 235);
 }
 
+#tittle-bar {
+  display: inline;
+  width: 100%;
+}
+
+#page-tittle {
+  float: left;
+  width: 60%;
+}
+
+#menu-button {
+  float: right;
+  text-align: right;
+  padding: 2px;
+}
+
+#menu-button:hover {
+  cursor: pointer;
+  color: rgb(100, 100, 100);
+  transition-duration: 0.5s;
+}
+
 #games-table_wrapper * {
   color: rgb(235, 235, 235);
 }
@@ -56,6 +78,7 @@ body {
 #tableBody tr:hover * {
   background-color: rgb(100, 100, 100);
   transition-duration: 0.2s;
+  cursor: default;
 }
 
 #games-table td {
@@ -95,4 +118,57 @@ body {
 }
 #games-table_paginate span .current {
   border-bottom: 2px solid;
+}
+
+#background-descricao {
+  display: none;
+  background-color: rgba(85, 85, 85, 0.45);
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+  left: 0;
+}
+
+.sidebar {
+  display: none;
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+}
+
+.sidebar-info {
+  width: 50%;
+  height: fit-content;
+  margin: auto;
+  margin-left: 20%;
+  background-color: rgb(100, 100, 100);
+  padding: 30px;
+  box-shadow: rgba(0, 0, 0, 0.61) 0px 5px 15px;
+}
+
+.sidebar-info h1 {
+  background-color: rgb(100, 100, 100);
+  font-size: 50px;
+  margin: 0;
+  border-bottom: 1px solid;
+}
+
+.sidebar-info p,
+h3 {
+  margin: 0 0 15px 0;
+}
+
+#fechar-btn {
+  float: right;
+  cursor: pointer;
+  text-align: center;
+  width: 7%;
+  color: black;
+}
+
+#fechar-btn:hover {
+  color: rgb(138, 138, 138);
+  transition-duration: 0.5s;
 }
