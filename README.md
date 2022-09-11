@@ -5,10 +5,13 @@
     <h2 align="center"> Was it Free? </h2>
 </p>
 
+## ▹ Take a look on it [here](https://was-it-free.hatakasy.repl.co/)!
+<br><br>
 ## ❐ Description
 
 The idea is to create a list of games that have been gone free sometime.
 
+<br><br>
 
 ## ⊷ Info
 
