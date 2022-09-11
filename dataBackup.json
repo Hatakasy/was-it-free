@@ -1,0 +1,283 @@
+{
+  "Data": [
+    { "name": "Tower of Time", "date": "30/12/2019", "site": "GOG" },
+    { "name": "Postal", "date": "20/12/2019", "site": "Steam" },
+    { "name": "POSTAL 2", "date": "16/12/2019", "site": "GOG" },
+    { "name": "Draw Slasher", "date": "13/12/2019", "site": "Steam" },
+    {
+      "name": "Wasteland 2 Director's Cut Digital Classic Edition",
+      "date": "11/12/2019",
+      "site": "GOG"
+    },
+    {
+      "name": "Minion Masters (DLC - Crystal Conquest)",
+      "date": "05/12/2019",
+      "site": "Steam"
+    },
+    { "name": "Zombie Driver HD", "date": "04/12/2019", "site": "Steam" },
+    { "name": "Serial Cleaner", "date": "21/11/2019", "site": "Humble Bundle" },
+    {
+      "name": "Crusader Kings II (DLC - Sword of Islam)",
+      "date": "15/11/2019",
+      "site": "Steam"
+    },
+    { "name": "Company of Heroes 2", "date": "15/11/2019", "site": "Steam" },
+    { "name": "DashBored", "date": "02/11/2019", "site": "Steam" },
+    {
+      "name": "Dracula 4 and 5 - Special Steam Edition",
+      "date": "01/11/2019",
+      "site": "Steam"
+    },
+    {
+      "name": "Dracula 3: The Path of the Dragon",
+      "date": "01/11/2019",
+      "site": "Steam"
+    },
+    {
+      "name": "Dracula 2: The Last Sanctuary",
+      "date": "01/11/2019",
+      "site": "Steam"
+    },
+    {
+      "name": "Dracula: The Resurrection",
+      "date": "31/10/2019",
+      "site": "Steam"
+    },
+    {
+      "name": "Saints Row: The Third (DLC - Bloodsucker Pack)",
+      "date": "28/10/2019",
+      "site": "Steam"
+    },
+    {
+      "name": "Crusader Kings II (DLC - The Old Gods)",
+      "date": "19/10/2019",
+      "site": "Steam"
+    },
+    {
+      "name": "Princess Remedy 2: In A Heap of Trouble",
+      "date": "11/10/2019",
+      "site": "Steam"
+    },
+    { "name": "RobocraftX", "date": "07/10/2019", "site": "Steam" },
+    { "name": "Freespace 2", "date": "25/09/2019", "site": "GOG" },
+    {
+      "name": "Grand Theft Auto: San Andreas (Rockstar Games Launcher)",
+      "date": "17/09/2019",
+      "site": "Rockstar Games Launcher"
+    },
+    { "name": "DiRT Rally", "date": "14/09/2019", "site": "Steam" },
+    {
+      "name": "THE GREAT GEOMETRIC MULTIVERSE TOUR",
+      "date": "13/09/2019",
+      "site": "Steam"
+    },
+    {
+      "name": "Endless Space - Collection",
+      "date": "12/09/2019",
+      "site": "Humble Bundle"
+    },
+    { "name": "DiRT Rally", "date": "29/08/2019", "site": "Humble Bundle" },
+    {
+      "name": "Assassin's Creed Odyssey (DLC - The Fate of Atlantis)",
+      "date": "26/08/2019",
+      "site": "Steam"
+    },
+    {
+      "name": "For Honor: Standard Edition (Uplay)",
+      "date": "20/08/2019",
+      "site": "Uplay"
+    },
+    {
+      "name": "Minion Masters (DLC - Might of the Slither Lords)",
+      "date": "15/08/2019",
+      "site": "Steam"
+    },
+    { "name": "Age of Wonders III", "date": "11/07/2019", "site": "Steam" },
+    {
+      "name": "Black Squad (DLC - Greeting Package)",
+      "date": "09/07/2019",
+      "site": "MMORPG"
+    },
+    {
+      "name": "Bio-Hazard Battle",
+      "date": "04/07/2019",
+      "site": "Games2Gether"
+    },
+    {
+      "name": "Ecco: The Tides of Time",
+      "date": "04/07/2019",
+      "site": "Games2Gether"
+    },
+    { "name": "Ristar", "date": "04/07/2019", "site": "Games2Gether" },
+    { "name": "Bonanza Bros.", "date": "04/07/2019", "site": "Games2Gether" },
+    { "name": "Fatal Labyrinth", "date": "04/07/2019", "site": "Games2Gether" },
+    {
+      "name": "Payday 2 (DLC - Mega Sydney / Paydaycon 2015-2016 mask pack / Alienware Mask)",
+      "date": "26/06/2019",
+      "site": "Dev. Site"
+    },
+    { "name": "Kabounce", "date": "22/06/2019", "site": "Steam" },
+    { "name": "Toonstruck", "date": "14/06/2019", "site": "GOG" },
+    { "name": "Enter the Gungeon", "date": "13/06/2019", "site": "Epic Games" },
+    {
+      "name": "Borderlands 2 (DLC - Commander Lilith and the Fight for Sanctuary)",
+      "date": "09/06/2019",
+      "site": "Steam"
+    },
+    {
+      "name": "Kingdom: New Lands",
+      "date": "06/06/2019",
+      "site": "Epic Games"
+    },
+    { "name": "Polygoneer", "date": "05/06/2019", "site": "Steam" },
+    {
+      "name": "Kao the Kangaroo: Round 2",
+      "date": "31/05/2019",
+      "site": "Steam"
+    },
+    { "name": "City of Brass", "date": "30/05/2019", "site": "Epic Games" },
+    { "name": "Obduction", "date": "30/05/2019", "site": "GOG" },
+    { "name": "Minion Masters (DLC - Accursed Army Pack)", "date": "24/05/2019", "site": "Steam" },
+    { "name": "Minion Masters (DLC - Voidborne Onslaught) (Steam)", "date": "24/05/2019", "site": "Gleam.io" },
+    { "name": "Forced Showdown (Steam)", "date": "24/05/2019", "site": "Gleam.io" },
+    { "name": "Forced (Steam)", "date": "24/05/2019", "site": "Gleam.io" },
+    { "name": "RiME", "date": "23/05/2019", "site": "Epic Games" },
+    { "name": "EVE Online (DLC - Invasion Starter Pack)", "date": "23/05/2019", "site": "Steam" },
+    { "name": "Jalopy (No DRM)", "date": "23/05/2019", "site": "Humble Bundle" },
+    { "name": "GRID 2", "date": "21/05/2019", "site": "Steam" },
+    { "name": "The SIms 4", "date": "21/05/2019", "site": "Origin" },
+    { "name": "Steep", "date": "20/05/2019", "site": "Uplay" },
+    { "name": "Ball laB", "date": "20/05/2019", "site": "Steam" },
+    { "name": "AppGameKit (Software)", "date": "18/05/2019", "site": "Steam" },
+    { "name": "Stories Untold", "date": "16/05/2019", "site": "Epic Games" },
+    { "name": "Kathy Rain", "date": "06/05/2019", "site": "Steam" },
+    { "name": "World of Goo", "date": "02/05/2019", "site": "Epic Games" },
+    { "name": "Gone Home (No DRM)", "date": "26/04/2019", "site": "Humble Bundle" },
+    { "name": "Transistor", "date": "18/04/2019", "site": "Epic Games" },
+    { "name": "Assassin's Creed Unity", "date": "17/04/2019", "site": "Uplay" },
+    { "name": "EVE Online (DLC - Starter Pack)", "date": "10/04/2019", "site": "Steam" },
+    { "name": "The Witness", "date": "04/04/2019", "site": "Epic Games" },
+    { "name": "SCRAM (DLC - SCRAMmunism)", "date": "01/04/2019", "site": "Alienware" },
+    { "name": "The Elder Scrolls III: Morrowind", "date": "25/03/2019", "site": "Bethesda.net" },
+    { "name": "Oxenfree", "date": "21/03/2019", "site": "Epic Games" },
+    { "name": "Tacoma (No DRM)", "date": "21/03/2019", "site": "Humble Bundle" },
+    { "name": "Estranged: Act II", "date": "17/03/2019", "site": "Steam" },
+    { "name": "GameGuru (Software)", "date": "15/03/2019", "site": "Steam" },
+    {
+      "name": "GRID 2 + Bathurst & Spa Circuits DLC",
+      "date": "14/03/2019",
+      "site": "Humble Bundle"
+    },
+    {
+      "name": "Minion Masters (DLC - Voidborne Onslaught)",
+      "date": "08/03/2019",
+      "site": "Steam"
+    },
+    { "name": "Slime Rancher", "date": "07/03/2019", "site": "Epic Games" },
+    { "name": "HITMAN 2 – Starter Pack", "date": "26/02/2019", "site": "Steam" },
+    { "name": "Thimbleweed Park", "date": "21/02/2019", "site": "Epic Games" },
+    { "name": "King of the Hat", "date": "18/02/2019", "site": "Discord" },
+    { "name": "Axiom Verge", "date": "07/02/2019", "site": "Epic Games" },
+    { "name": "Kholat", "date": "01/02/2019", "site": "Steam" },
+    {
+      "name": "Assassin's Creed Chronicles China (Uplay)",
+      "date": "01/02/2019",
+      "site": "Uplay"
+    },
+    { "name": "Endless Space Collection", "date": "25/01/2019", "site": "Games2Gether" },
+    {
+      "name": "Deponia: The Complete Journey",
+      "date": "24/01/2019",
+      "site": "Humble Bundle"
+    },
+    { "name": "Jackbox Party Pack", "date": "24/01/2019", "site": "Epic Games" },
+    { "name": "DISTRAINT: Deluxe Edition", "date": "23/01/2019", "site": "GOG" },
+    { "name": "Braveland", "date": "16/01/2019", "site": "Steam" },
+    { "name": "A Story About My Uncle", "date": "10/01/2019", "site": "Humble Bundle" },
+    { "name": "What Remains of Edith Finch", "date": "10/01/2019", "site": "Epic Games" },
+    { "name": "Blast Zone! Tournament", "date": "10/01/2019", "site": "Steam" },
+    {
+      "name": "A Story About My Uncle",
+      "date": "10/01/2019",
+      "site": "Humble Bundle"
+    },
+    { "name": "Blast Zone! Tournament", "date": "10/01/2019", "site": "Steam" },
+    {
+      "name": "LEGO® Lord of the Rings + LEGO - The Hobbit",
+      "date": "28/12/2018",
+      "site": "Humble Bundle"
+    },
+    {
+      "name": "LEGO® Lord of the Rings",
+      "date": "20/12/2018",
+      "site": "Humble Bundle"
+    },
+    { "name": "HITMAN 2 - Prologue", "date": "18/12/2018", "site": "Steam" },
+    {
+      "name": "Geneshift e Sins of a Solar Empire: Rebellion",
+      "date": "17/12/2018",
+      "site": "Steam"
+    },
+    { "name": "Anno 1602 (Uplay)", "date": "17/12/2018", "site": "Uplay" },
+    {
+      "name": "LEGO - The Hobbit",
+      "date": "13/12/2018",
+      "site": "Humble Bundle"
+    },
+    { "name": "I am not a Monster", "date": "06/12/2018", "site": "Steam" },
+    { "name": "Company of Heroes 2", "date": "06/12/2018", "site": "Steam" },
+    { "name": "MINImax Tinyverse", "date": "20/11/2018", "site": "Steam" },
+    {
+      "name": "Sins of a Solar Empire: Rebellion",
+      "date": "15/11/2018",
+      "site": "Humble Bundle"
+    },
+    {
+      "name": "DISTRAINT: Deluxe Edition",
+      "date": "05/11/2018",
+      "site": "Steam"
+    },
+    {
+      "name": "Destiny 2 (Battle.net)",
+      "date": "02/11/2018",
+      "site": "Blizzard"
+    },
+    { "name": "Murderous Pursuits", "date": "26/10/2018", "site": "Steam" },
+    { "name": "Metro 2033", "date": "25/10/2018", "site": "Steam" },
+    { "name": "Evolvation", "date": "08/10/2018", "site": "Steam" },
+    { "name": "The Tiny Bang Story", "date": "24/09/2018", "site": "Steam" },
+    { "name": "Heavy Dreams", "date": "02/09/2018", "site": "Steam" },
+    { "name": "Orwell", "date": "16/08/2018", "site": "Humble Bundle" },
+    {
+      "name": "BROKE PROTOCOL: Online City RPG",
+      "date": "15/08/2018",
+      "site": "Steam"
+    },
+    { "name": "Insurgency", "date": "13/08/2018", "site": "Steam" },
+    {
+      "name": "Guns of Icarus Alliance",
+      "date": "26/07/2018",
+      "site": "Humble Bundle"
+    },
+    {
+      "name": "Odysseus Kosmos and his Robot Quest: Episode 1",
+      "date": "20/07/2018",
+      "site": "Steam"
+    },
+    { "name": "Hacknet ", "date": "12/07/2018", "site": "Steam" },
+    { "name": "Freezeer", "date": "06/07/2018", "site": "?" },
+    {
+      "name": "The Awesome Adventures of Captain Spirit",
+      "date": "05/07/2018",
+      "site": "Steam"
+    },
+    {
+      "name": "Shadowrun Returns Deluxe",
+      "date": "21/06/2018",
+      "site": "Humble Bundle"
+    },
+    { "name": "Swords and Soldiers HD", "date": "20/06/2018", "site": "Steam" },
+    { "name": "Cuisine Royale", "date": "16/06/2018", "site": "Steam" },
+    { "name": "Layers of Fear", "date": "13/06/2018", "site": "Steam" }
+  ]
+}
