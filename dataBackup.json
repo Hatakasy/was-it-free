@@ -1,73 +1,169 @@
 {
   "Data": [
     {
-      "name": "BATTLESTAR GALACTICA Deadlock (Steam)",
+      "name": "World of Warships (DLC - American Freedom)",
+      "date": "22/09/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "DeadPoly",
+      "date": "22/09/2022",
+      "site": "Lenovo"
+    },
+    {
+      "name": "Rebel Inc: Escalation (DLC - Sand & Secrets)",
+      "date": "20/09/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "Dragon Blast (DLC - DragonBlast Expansion)",
+      "date": "19/09/2022",
+      "site": "Key-Hub"
+    },
+    {
+      "name": "Ultimate Soldier",
+      "date": "19/09/2022",
+      "site": "Givee Club"
+    },
+    {
+      "name": "Mythic Origins",
+      "date": "16/09/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Mythic Frost Trials",
+      "date": "16/09/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Need for Speed Payback (DLC - Fortune Valley Map Shortcuts)",
+      "date": "16/09/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "The Lobster Game",
+      "date": "15/09/2022",
+      "site": "Givee Club"
+    },
+    {
+      "name": "Courage",
+      "date": "15/09/2022",
+      "site": "Givee Club"
+    },
+    {
+      "name": "Conrad Stevenson's Paranormal P.I.",
       "date": "07/09/2022",
       "site": "Alienware"
     },
     {
-      "name": "Conrad Stevenson's Paranormal P.I. (Steam)",
-      "date": "07/09/2022",
-      "site": "Alienware"
-    },
-    {
-      "name": "Dungoen of Elements (Steam)",
+      "name": "Dungoen of Elements",
       "date": "05/09/2022",
       "site": "Gleam.io"
     },
+    {
+      "name": "Hold Your Houses Quest",
+      "date": "04/09/2022",
+      "site": "OPquests"
+    },
+    { "name": "Neon Parkour", "date": "03/09/2022", "site": "Champion Flow" },
+    {
+      "name": "Dungeon of Elements",
+      "date": "02/09/2022",
+      "site": "Grab the Games"
+    },
+    { "name": "Remains", "date": "02/09/2022", "site": "Givee Club" },
     { "name": "Saira", "date": "01/09/2022", "site": "Steam" },
     { "name": "Mafia", "date": "01/09/2022", "site": "Steam" },
-    { "name": "BattleTech (Steam)", "date": "29/08/2022", "site": "Alienware" },
-    { "name": "Tower 57 (Steam)", "date": "29/08/2022", "site": "Alienware" },
-    { "name": "Dead Bits (Steam)", "date": "23/08/2022", "site": "Gleam.io" },
+    { "name": "Mighty Vikinks", "date": "31/08/2022", "site": "Champion Flow" },
+    { "name": "QUIZxRPG", "date": "31/08/2022", "site": "Givee Club" },
+    { "name": "Tower 57", "date": "29/08/2022", "site": "Alienware" },
+    { "name": "Neon Parkour", "date": "25/08/2022", "site": "Champion Flow" },
+    { "name": "Waking", "date": "25/08/2022", "site": "Alienware" },
     {
-      "name": "Yars: Recharged (Steam)",
+      "name": "Military Crusaders",
+      "date": "24/08/2022",
+      "site": "Champion Flow"
+    },
+    { "name": "Dead Bits", "date": "23/08/2022", "site": "Gleam.io" },
+    {
+      "name": "Yars: Recharged",
       "date": "23/08/2022",
       "site": "Alienware"
     },
     {
-      "name": "Office Racer (Steam)",
+      "name": "Office Racer",
       "date": "22/08/2022",
       "site": "Gleam.io"
     },
     {
-      "name": "Region of Ruin (Steam)",
+      "name": "Region of Ruin",
       "date": "22/08/2022",
       "site": "Gleam.io"
     },
     {
-      "name": "Forest Mystery (Steam)",
+      "name": "Forest Mystery",
       "date": "22/08/2022",
       "site": "Gleam.io"
     },
     {
-      "name": "Horror In Valkeala (Steam)",
+      "name": "Horror In Valkeala",
       "date": "22/08/2022",
       "site": "Gleam.io"
     },
     {
-      "name": "1993 Space Machine (Steam)",
+      "name": "Horror in Valkeala",
+      "date": "21/08/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "Waves",
+      "date": "21/08/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "1993 Space Machine",
       "date": "18/08/2022",
       "site": "Alienware"
     },
     {
-      "name": "Grav Blazer Squared (Steam)",
+      "name": "PULSOR",
+      "date": "15/08/2022",
+      "site": "Key-Hub"
+    },
+    {
+      "name": "Grav Blazer Squared",
       "date": "14/08/2022",
       "site": "Gleam.io"
     },
     {
-      "name": "Kingdom Wars 4 (Steam)",
+      "name": "BATTLESTAR GALACTICA Deadlock",
+      "date": "11/08/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Warfield / Jigoku Unko: Toripuru",
+      "date": "08/08/2022",
+      "site": "Givee Club"
+    },
+    {
+      "name": "12 is Better Than 6",
+      "date": "08/08/2022",
+      "site": "Givee Club"
+    },
+    {
+      "name": "Kingdom Wars 4",
       "date": "05/08/2022",
       "site": "Alienware"
     },
+    { "name": "BattleTech", "date": "04/08/2022", "site": "Alienware" },
     {
-      "name": "This War of Mine: Final Cut (Steam)",
+      "name": "This War of Mine: Final Cut",
       "date": "04/08/2022",
       "site": "Alienware"
     },
-    { "name": "Moo Lander (Steam)", "date": "04/08/2022", "site": "Alienware" },
+    { "name": "Moo Lander", "date": "04/08/2022", "site": "Alienware" },
     {
-      "name": "Crankies Workshop Bozzbot Assembly (Steam)",
+      "name": "Crankies Workshop Bozzbot Assembly",
       "date": "04/08/2022",
       "site": "Gleam.io"
     },
@@ -79,6 +175,615 @@
     },
     { "name": "POLE", "date": "01/08/2022", "site": "Steam" },
     { "name": "Beat Cop", "date": "01/08/2022", "site": "Alienware" },
+    { "name": "Softened Cookie", "date": "31/07/2022", "site": "Gleam.io" },
+    { "name": "Forest Mystery", "date": "28/07/2022", "site": "Gleam.io" },
+    { "name": "Horror in Valkeala", "date": "26/07/2022", "site": "Gleam.io" },
+    {
+      "name": "World of Warships (DLC -Long Live the King)",
+      "date": "25/07/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "My Paper Boat",
+      "date": "25/07/2022",
+      "site": "Dev. Website"
+    },
+    {
+      "name": "Bow & Crystal Tower Defense",
+      "date": "22/07/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "PULSOR",
+      "date": "22/07/2022",
+      "site": "Key-Hub"
+    },
+    {
+      "name": "12 is Better Than 6",
+      "date": "21/07/2022",
+      "site": "Givee Club"
+    },
+    {
+      "name": "Mythic Origins: Vorpal Sword",
+      "date": "20/07/2022",
+      "site": "Alienware"
+    },
+    { "name": "Maneater", "date": "20/07/2022", "site": "Steelseries" },
+    { "name": "Mythic Origins", "date": "20/07/2022", "site": "Alienware" },
+    { "name": "PARANECRO", "date": "20/07/2022", "site": "Key-Hub" },
+    {
+      "name": "Knights and Dungeons: Death Knight",
+      "date": "20/07/2022",
+      "site": "Key-Hub"
+    },
+    { "name": "Kingdom Wars 4", "date": "19/07/2022", "site": "Alienware" },
+    { "name": "Moo Lander", "date": "19/07/2022", "site": "Alienware" },
+    {
+      "name": "World of Warships × Transformers: FREE Collection Container",
+      "date": "16/07/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "Three Dead Zed",
+      "date": "16/07/2022",
+      "site": "Green Man Gaming"
+    },
+    {
+      "name": "Huntsman The Orphanage",
+      "date": "16/07/2022",
+      "site": "Green Man Gaming"
+    },
+    {
+      "name": "3on3 FreeStyle (DLC - 2nd Anniversary Gift pack)",
+      "date": "13/07/2022",
+      "site": "Steam"
+    },
+    { "name": "Alien Cat 2", "date": "12/07/2022", "site": "OPquests" },
+    { "name": "Killing Floor 2", "date": "10/07/2022", "site": "Steelseries" },
+    { "name": "Softened Cookie", "date": "09/07/2022", "site": "Gleam.io" },
+    {
+      "name": "Minion Masters (DLC - KaBOOM Kingdom)",
+      "date": "07/07/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "Swamp Jump",
+      "date": "07/07/2022",
+      "site": "Givee Club"
+    },
+    { "name": "Smalles(Classes)", "date": "01/07/2022", "site": "Key-Hub" },
+    { "name": "One Dog Story", "date": "28/06/2022", "site": "Givee Club" },
+    { "name": "Horror In Valkeala", "date": "26/06/2022", "site": "Gleam.io" },
+    {
+      "name": "Knights and Dungeons: Death Knight",
+      "date": "26/06/2022",
+      "site": "Key-Hub"
+    },
+    { "name": "Smalles", "date": "25/06/2022", "site": "Key-Hub" },
+    { "name": "Dismantled", "date": "25/06/2022", "site": "Key-Hub" },
+    { "name": "Norega", "date": "24/06/2022", "site": "Dev. Website" },
+    {
+      "name": "World of Warships × Transformers: Collection Container",
+      "date": "24/06/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "Dismantled Director's Cut",
+      "date": "23/06/2022",
+      "site": "Key-Hub"
+    },
+    { "name": "Reventure", "date": "22/06/2022", "site": "Fanatical" },
+    { "name": "Armor Of Heroes", "date": "20/06/2022", "site": "Dev. Website" },
+    {
+      "name": "Space Pilgrim Episode II: Epsilon Indi",
+      "date": "20/06/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "Tell Me Why: Chapters 1-3",
+      "date": "16/06/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "My Jigsaw Adventures - Roads of Life",
+      "date": "15/06/2022",
+      "site": "Key-Hub"
+    },
+    {
+      "name": "Pixel Puzzles 2: Christmas",
+      "date": "14/06/2022",
+      "site": "Givee Club"
+    },
+    {
+      "name": "Gridiron (DLC - Gold Package)",
+      "date": "13/06/2022",
+      "site": "Steam"
+    },
+    { "name": "ARK: Survival Evolved", "date": "12/06/2022", "site": "Steam" },
+    { "name": "ARK: Survival Evolved", "date": "12/06/2022", "site": "Steam" },
+    { "name": "Kingdom Wars 4", "date": "10/06/2022", "site": "Crucial" },
+    { "name": "Ninja Stealth", "date": "10/06/2022", "site": "Steam" },
+    {
+      "name": "Dying Light (DLC - Harran Tactical Unit Bundle)",
+      "date": "09/06/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "Capcom Arcade Stadium：STREET FIGHTER II - The World Warrior -",
+      "date": "09/06/2022",
+      "site": "Steam"
+    },
+    { "name": "The Deed", "date": "09/06/2022", "site": "Gleam.io" },
+    {
+      "name": "X Wars Deluxe (DLC - Line Effect)",
+      "date": "07/06/2022",
+      "site": "Key-Hub"
+    },
+    {
+      "name": "Space Pilgrim Episode II: Epsilon Indi",
+      "date": "06/06/2022",
+      "site": "Grab the Games"
+    },
+    { "name": "Quadrant M4", "date": "05/06/2022", "site": "Gleam.io" },
+    {
+      "name": "Knights and Dungeons",
+      "date": "04/06/2022",
+      "site": "Dev. Website"
+    },
+    { "name": "The Deed", "date": "04/06/2022", "site": "Gleam.io" },
+    { "name": "Axis Football 2021", "date": "03/06/2022", "site": "Gleam.io" },
+    {
+      "name": "Apex Legends (DLC - Saviors Pack)",
+      "date": "01/06/2022",
+      "site": "Steelseries"
+    },
+    {
+      "name": "Scribble It! (DLC - Premium Edition)",
+      "date": "31/05/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Minion Masters (DLC - Frost Dragon's Lair)",
+      "date": "28/05/2022",
+      "site": "Steam"
+    },
+    { "name": "Swamp Jump", "date": "28/05/2022", "site": "Givee Club" },
+    { "name": "Project F4E", "date": "27/05/2022", "site": "Gleam.io" },
+    { "name": "Gangsta: the Return", "date": "25/05/2022", "site": "Gleam.io" },
+    { "name": "Axis Football 2021", "date": "25/05/2022", "site": "Gleam.io" },
+    { "name": "Endless Space 2", "date": "25/05/2022", "site": "Dev. Website" },
+    { "name": "Bomber Crew", "date": "25/05/2022", "site": "Steam" },
+    { "name": "Bomber Crew", "date": "25/05/2022", "site": "Steam" },
+    {
+      "name": "Land of Puzzles: Knights",
+      "date": "21/05/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "Land of Puzzles: Elven Princess",
+      "date": "20/05/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "X Wars Deluxe (DLC - Gold Name)",
+      "date": "18/05/2022",
+      "site": "Key-Hub"
+    },
+    {
+      "name": "World of Tanks (DLC - Lightweight Fighter Pack)",
+      "date": "13/05/2022",
+      "site": "Steam"
+    },
+    { "name": "Get In The Car, Loser!", "date": "11/05/2022", "site": "Steam" },
+    {
+      "name": "Woodle Tree 2: Deluxe Plus",
+      "date": "08/05/2022",
+      "site": "Gleam.io"
+    },
+    { "name": "The Deed", "date": "05/05/2022", "site": "Grab the Games" },
+    { "name": "MIDO AND DI", "date": "29/04/2022", "site": "Steam" },
+    { "name": "Jungle Rumble", "date": "17/04/2022", "site": "Gleam.io" },
+    {
+      "name": "3D PUZZLE - Alchemist House",
+      "date": "17/04/2022",
+      "site": "Givee Club"
+    },
+    { "name": "Iris and the Giant", "date": "16/04/2022", "site": "GOG" },
+    {
+      "name": "Minion Masters (DLC - Frost Dragon's Lair)",
+      "date": "08/04/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "Deceit (DLC - Starter Pack)",
+      "date": "01/04/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Knightfall: A Daring Journey",
+      "date": "01/04/2022",
+      "site": "Steam"
+    },
+    { "name": "Gangsta: the Return", "date": "30/03/2022", "site": "Gleam.io" },
+    { "name": "Plunder Panic", "date": "28/03/2022", "site": "Alienware" },
+    {
+      "name": "Warframe: 9 Year Anniversary Pack",
+      "date": "28/03/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "Valkyrie Nemesis",
+      "date": "26/03/2022",
+      "site": "Grab the Games"
+    },
+    { "name": "KEO", "date": "24/03/2022", "site": "Steam" },
+    {
+      "name": "ARK: Survival Evolved (DLC - Lost Island)",
+      "date": "18/03/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "World of Warships (DLC - Lunar New Year Gift Pack)",
+      "date": "14/03/2022",
+      "site": "Steam"
+    },
+    { "name": "Grav Blazer", "date": "06/03/2022", "site": "Gleam.io" },
+    {
+      "name": "Payday 2 (DLC - SteelSeries Troll Mask)",
+      "date": "27/02/2022",
+      "site": "Steelseries"
+    },
+    { "name": "Plunder Panic", "date": "26/02/2022", "site": "Steam" },
+    { "name": "Fruit Juice", "date": "24/02/2022", "site": "Gleam.io" },
+    {
+      "name": "Company of Heroes 2",
+      "date": "22/02/2022",
+      "site": "Games2Gether"
+    },
+    {
+      "name": "Buddy Simulator 1984",
+      "date": "22/02/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Black One Blood Brothers",
+      "date": "22/02/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Apex Legends (DLC - Defiance Pack)",
+      "date": "17/02/2022",
+      "site": "Steelseries"
+    },
+    {
+      "name": "Dear Esther: Landmark Edition",
+      "date": "14/02/2022",
+      "site": "Steam"
+    },
+    { "name": "Pixel Robot Return", "date": "13/02/2022", "site": "Gleam.io" },
+    { "name": "BEACH LOVE SHOP", "date": "10/02/2022", "site": "Key-Hub" },
+    {
+      "name": "Shadow Warrior 2 (Full Game)",
+      "date": "10/02/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Cyber Manhunt (Soundtrack)",
+      "date": "10/02/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "Kingdom Come: Deliverance (DLC - The Amorous Adventures of Bold Sir Hans Capon)",
+      "date": "10/02/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "World of Warships (DLC - Publisher's Gift)",
+      "date": "10/02/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "World of Warships (DLC - French Express Pack)",
+      "date": "10/02/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "World of Warships (DLC - French Express Pack)",
+      "date": "10/02/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "Cities: Skylines",
+      "date": "01/02/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "World of Warships (DLC - Lunar New Year Gift Pack)",
+      "date": "29/01/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "Neon Abyss (DLC - Chrono Trap)",
+      "date": "27/01/2022",
+      "site": "Steam"
+    },
+    { "name": "Elementite", "date": "26/01/2022", "site": "Lenovo" },
+    { "name": "EARTHLOCK", "date": "26/01/2022", "site": "Lenovo" },
+    {
+      "name": "Company of Heroes 2",
+      "date": "19/01/2022",
+      "site": "Games2Gether"
+    },
+    {
+      "name": "Flappy Helicopter 2.0",
+      "date": "16/01/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "KARDS - The WWII Card Game (DLC - US Starter Pack)",
+      "date": "14/01/2022",
+      "site": "Steam"
+    },
+    {
+      "name": "Potion Commotion (DLC - Fanbook)",
+      "date": "10/01/2022",
+      "site": "Steam"
+    },
+    { "name": "Region of Ruin", "date": "10/01/2022", "site": "Gleam.io" },
+    { "name": "Pixel Robot Return", "date": "06/01/2022", "site": "Gleam.io" },
+    {
+      "name": "Minion Masters (DLC - Invasion)",
+      "date": "06/01/2022",
+      "site": "Steam"
+    },
+    { "name": "Coal Man Clicker", "date": "06/01/2022", "site": "Gleam.io" },
+    { "name": "Iratus: Lord of the Dead", "date": "03/01/2022", "site": "GOG" },
+    { "name": "World of Barn", "date": "31/12/2021", "site": "Key-Hub" },
+    { "name": "Furry Love", "date": "30/12/2021", "site": "Key-Hub" },
+    { "name": "Miss Furry", "date": "30/12/2021", "site": "Key-Hub" },
+    { "name": "RUSSIAPHOBIA", "date": "30/12/2021", "site": "Key-Hub" },
+    {
+      "name": "X Wars Deluxe (DLC - Gold Name)",
+      "date": "24/12/2021",
+      "site": "Key-Hub"
+    },
+    {
+      "name": "Mega Zombie Explosion",
+      "date": "23/12/2021",
+      "site": "Gleam.io"
+    },
+    { "name": "X Wars Deluxe", "date": "20/12/2021", "site": "Key-Hub" },
+    { "name": "World of Bärn", "date": "18/12/2021", "site": "vLoot" },
+    { "name": "Press Any Button", "date": "17/12/2021", "site": "Steam" },
+    {
+      "name": "Neon Abyss (DLC - The Lovable Rogues Pack)",
+      "date": "16/12/2021",
+      "site": "Steam"
+    },
+    { "name": "Innocent Girl", "date": "16/12/2021", "site": "Key-Hub" },
+    { "name": "Furry Love", "date": "16/12/2021", "site": "Key-Hub" },
+    { "name": "Furry Love 2", "date": "16/12/2021", "site": "Key-Hub" },
+    { "name": "House of Detention", "date": "16/12/2021", "site": "Key-Hub" },
+    { "name": "Swamp Jump", "date": "14/12/2021", "site": "Givee Club" },
+    { "name": "Clocknockers", "date": "13/12/2021", "site": "Key-Hub" },
+    { "name": "Demon's Residence", "date": "10/12/2021", "site": "vLoot" },
+    {
+      "name": "Call of Juarez Gunslinger",
+      "date": "09/12/2021",
+      "site": "Steam"
+    },
+    { "name": "Flannel Amethyst", "date": "05/12/2021", "site": "vLoot" },
+    {
+      "name": "NiGHTS Into Dreams",
+      "date": "05/12/2021",
+      "site": "Dev. Website"
+    },
+    { "name": "Box: The Game", "date": "04/12/2021", "site": "Steam" },
+    {
+      "name": "Overcast - Walden and the Werewolf",
+      "date": "03/12/2021",
+      "site": "Givee Club"
+    },
+    { "name": "PIXASSO 3", "date": "28/11/2021", "site": "Key-Hub" },
+    { "name": "Tax Fugitive", "date": "26/11/2021", "site": "vLoot" },
+    {
+      "name": "Train Simulator Classic (DLC - Amtrak P42DC 50th Anniversary Collector’s Edition)",
+      "date": "25/11/2021",
+      "site": "Steam"
+    },
+    { "name": "Devils Gold", "date": "25/11/2021", "site": "Grab the Games" },
+    {
+      "name": "Warhammer: End Times - Vermintide",
+      "date": "24/11/2021",
+      "site": "Fanatical"
+    },
+    {
+      "name": "HENTAI ARENA HOLY PUSSY",
+      "date": "24/11/2021",
+      "site": "Key-Hub"
+    },
+    {
+      "name": "Generation Zero (DLC - Schweet Vanity Pack)",
+      "date": "23/11/2021",
+      "site": "Alienware"
+    },
+    {
+      "name": "Valkyrie: Journey To Midgard",
+      "date": "20/11/2021",
+      "site": "Grab the Games"
+    },
+    { "name": "Jetpack Vacation", "date": "17/11/2021", "site": "Key-Hub" },
+    { "name": "My Step Sisters", "date": "17/11/2021", "site": "Key-Hub" },
+    { "name": "Swamp Jump", "date": "15/11/2021", "site": "Givee Club" },
+    {
+      "name": "Overcast - Walden and the Werewolf",
+      "date": "12/11/2021",
+      "site": "OPquests"
+    },
+    {
+      "name": "Crankies Workshop Bozzbot Assembly",
+      "date": "12/11/2021",
+      "site": "Gleam.io"
+    },
+    { "name": "KnightShift", "date": "11/11/2021", "site": "OPquests" },
+    { "name": "SteamWorld Dig 2", "date": "10/11/2021", "site": "Steam" },
+    { "name": "Beholder", "date": "09/11/2021", "site": "Steam" },
+    { "name": "Best Life Simulator", "date": "09/11/2021", "site": "Key-Hub" },
+    { "name": "Steamworld Dig", "date": "09/11/2021", "site": "Dev. Website" },
+    { "name": "Badlands Racer", "date": "08/11/2021", "site": "OPquests" },
+    { "name": "Winding Road", "date": "08/11/2021", "site": "OPquests" },
+    {
+      "name": "Battlerite (DLC - All Champions Pack)",
+      "date": "07/11/2021",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "World of Warships (DLC - Exclusive Starter Pack)",
+      "date": "04/11/2021",
+      "site": "Steam"
+    },
+    {
+      "name": "BattleGrounds : War, Tanks And Nukes",
+      "date": "02/11/2021",
+      "site": "Key-Hub"
+    },
+    {
+      "name": "Drones, The Human Condition",
+      "date": "30/10/2021",
+      "site": "Steam"
+    },
+    {
+      "name": "RiMS Racing (DLC - The Bloody Beetroots Specials)",
+      "date": "29/10/2021",
+      "site": "Steam"
+    },
+    { "name": "RiMS Racing", "date": "29/10/2021", "site": "Steam" },
+    {
+      "name": "Desolatium: Prologue",
+      "date": "28/10/2021",
+      "site": "Steelseries"
+    },
+    { "name": "Killing Floor 2", "date": "28/10/2021", "site": "Steelseries" },
+    { "name": "Combat Force", "date": "25/10/2021", "site": "vLoot" },
+    {
+      "name": "Suicide Guy Deluxe Edition",
+      "date": "23/10/2021",
+      "site": "Gleam.io"
+    },
+    { "name": "Bad Day", "date": "23/10/2021", "site": "SteamDB" },
+    { "name": "The Running Man", "date": "23/10/2021", "site": "SteamDB" },
+    {
+      "name": "Andromeda One Zombies",
+      "date": "23/10/2021",
+      "site": "Key-Hub"
+    },
+    {
+      "name": "Redout: Space Assault",
+      "date": "21/10/2021",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "PAYDAY 2 (DLC - 10th Anniversary Jester Mask)",
+      "date": "20/10/2021",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "I'm on Observation Duty",
+      "date": "16/10/2021",
+      "site": "Key-Hub"
+    },
+    { "name": "Bunny adventure", "date": "15/10/2021", "site": "OPquests" },
+    {
+      "name": "Spirit of Europe - Origins",
+      "date": "08/10/2021",
+      "site": "Key-Hub"
+    },
+    {
+      "name": "Tom Clancy's Ghost Recon Wildlands (DLC - Fallen Ghosts)",
+      "date": "05/10/2021",
+      "site": "Steam"
+    },
+    {
+      "name": "Tom Clancy's Ghost Recon Wildlands (DLC - Fallen Ghosts)",
+      "date": "05/10/2021",
+      "site": "Uplay"
+    },
+    {
+      "name": "Tom Clancy's Ghost Recon",
+      "date": "05/10/2021",
+      "site": "Uplay"
+    },
+    {
+      "name": "Adventures of Chris",
+      "date": "04/10/2021",
+      "site": "Alienware"
+    },
+    { "name": "Cyber Hook", "date": "04/10/2021", "site": "Alienware" },
+    { "name": "Mambo Wave", "date": "03/10/2021", "site": "vLoot" },
+    { "name": "The Rebellion", "date": "03/10/2021", "site": "Key-Hub" },
+    { "name": "Gloria Victis", "date": "01/10/2021", "site": "MassivelyOP" },
+    {
+      "name": "Hentai Shooter 3D: Christmas Party",
+      "date": "01/10/2021",
+      "site": "OPquests"
+    },
+    { "name": "Put in", "date": "01/10/2021", "site": "OPquests" },
+    { "name": "Let's Go! Skiing VR", "date": "01/10/2021", "site": "OPquests" },
+    { "name": "Skattered Dream", "date": "29/09/2021", "site": "Key-Hub" },
+    { "name": "Coronation", "date": "29/09/2021", "site": "Key-Hub" },
+    {
+      "name": "Blood of Steel (DLC - Beginning Pack)",
+      "date": "28/09/2021",
+      "site": "Gleam.io"
+    },
+    { "name": "Syberia", "date": "27/09/2021", "site": "Steam" },
+    { "name": "Brain Test", "date": "26/09/2021", "site": "Key-Hub" },
+    { "name": "Super Drag Race", "date": "26/09/2021", "site": "Key-Hub" },
+    {
+      "name": "Marble Parkour 2: Roll",
+      "date": "26/09/2021",
+      "site": "Key-Hub"
+    },
+    { "name": "War Of Gold", "date": "26/09/2021", "site": "Key-Hub" },
+    {
+      "name": "Portal 2 Sixense Perceptual Pack ",
+      "date": "26/09/2021",
+      "site": "Steam"
+    },
+    { "name": "Banana Hell ", "date": "25/09/2021", "site": "Steam" },
+    { "name": "Fear Surrounds ", "date": "24/09/2021", "site": "Alienware" },
+    { "name": "EVAN QUEST ", "date": "24/09/2021", "site": "Key-Hub" },
+    {
+      "name": "Battlefield 4 (DLC - Soldier Shortcut Bundle) ",
+      "date": "23/09/2021",
+      "site": "Steam"
+    },
+    {
+      "name": "Minion Masters (DLC - Mordar’s Malediction)",
+      "date": "20/09/2021",
+      "site": "Steam"
+    },
+    { "name": "P0", "date": "18/09/2021", "site": "Key-Hub" },
+    {
+      "name": "Battlefield 1 (DLC - Shortcut Kit: Ultimate Bundle)",
+      "date": "16/09/2021",
+      "site": "Steam"
+    },
+    {
+      "name": "Titan Quest Anniversary Edition",
+      "date": "16/09/2021",
+      "site": "Steam"
+    },
+    {
+      "name": "Jagged Alliance 1: Gold Edition",
+      "date": "16/09/2021",
+      "site": "Steam"
+    },
+
+
+
+
+    
 
     { "name": "Tower of Time", "date": "30/12/2019", "site": "GOG" },
     { "name": "Postal", "date": "20/12/2019", "site": "Steam" },
@@ -223,16 +928,16 @@
       "site": "Steam"
     },
     {
-      "name": "Minion Masters (DLC - Voidborne Onslaught) (Steam)",
+      "name": "Minion Masters (DLC - Voidborne Onslaught)",
       "date": "24/05/2019",
       "site": "Gleam.io"
     },
     {
-      "name": "Forced Showdown (Steam)",
+      "name": "Forced Showdown",
       "date": "24/05/2019",
       "site": "Gleam.io"
     },
-    { "name": "Forced (Steam)", "date": "24/05/2019", "site": "Gleam.io" },
+    { "name": "Forced", "date": "24/05/2019", "site": "Gleam.io" },
     { "name": "RiME", "date": "23/05/2019", "site": "Epic Games" },
     {
       "name": "EVE Online (DLC - Invasion Starter Pack)",
@@ -294,9 +999,9 @@
       "site": "Steam"
     },
     { "name": "Slime Rancher", "date": "07/03/2019", "site": "Epic Games" },
-    { "name": "The Wall (Steam)", "date": "05/03/2019", "site": "Alienware" },
+    { "name": "The Wall", "date": "05/03/2019", "site": "Alienware" },
     {
-      "name": "HIVE: Altenum Wars (Steam)",
+      "name": "HIVE: Altenum Wars",
       "date": "04/03/2019",
       "site": "Gleam.io"
     },
@@ -306,7 +1011,7 @@
       "site": "Steam"
     },
     {
-      "name": "RRRR (Steam)",
+      "name": "RRRR",
       "date": "26/02/2019",
       "site": "Alienware"
     },
