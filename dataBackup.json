@@ -1,6 +1,46 @@
 {
   "Data": [
     {
+      "name": "Timber Story",
+      "date": "09/10/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "Woodle Tree 2: Deluxe Plus",
+      "date": "07/10/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "Wayout",
+      "date": "07/10/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "Suicide Guy Deluxe Plus",
+      "date": "06/10/2022",
+      "site": "Gleam.io"
+    },
+    {
+      "name": "Dungeon of Elements",
+      "date": "05/10/2022",
+      "site": "Grab the Games"
+    },
+    {
+      "name": "Flippin' Misfits",
+      "date": "03/10/2022",
+      "site": "Alienware"
+    },
+    {
+      "name": "Master of Magic Classic",
+      "date": "29/09/2022",
+      "site": "GOG"
+    },
+    {
+      "name": "Need for Speed Heat (DLC - Keys to the Map)",
+      "date": "27/09/2022",
+      "site": "Steam"
+    },
+    {
       "name": "World of Warships (DLC - American Freedom)",
       "date": "22/09/2022",
       "site": "Steam"
