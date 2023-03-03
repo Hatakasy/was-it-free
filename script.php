@@ -1,5 +1,5 @@
 <?php
-$url = 'https://raw.githubusercontent.com/Hatakasy/was-it-free/main/dataBackup.json';
+$url = getenv('GAMES_URL'); //replit secret
 
 $json = file_get_contents($url);
 $obj = json_decode($json, true);
