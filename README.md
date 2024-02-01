@@ -15,6 +15,6 @@ The idea is to create a list of games that have been gone free sometime.
 
 ## ⊷ Info
 
-▹ Project is hosted on [Replit](https://replit.com/@Hatakasy/was-it-free?v=1)
+▹ Project is hosted on [Replit](https://hatakasy.github.io/was-it-free/)
 
 ▹ Games List is hosted on [Pastebin](https://pastebin.com/1Nhr4740)
