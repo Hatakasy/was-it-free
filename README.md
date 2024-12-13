@@ -5,7 +5,7 @@
     <h2 align="center"> Was it Free? </h2>
 </p>
 
-## ▹ Take a look on it [here]([https://was-it-free.hatakasy.repl.co/](https://hatakasy.github.io/was-it-free/))!
+## ▹ Take a look on it [here](https://hatakasy.github.io/was-it-free/)!
 <br><br>
 ## ❐ Description
 
